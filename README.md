@@ -11,3 +11,10 @@ It is in very early developement.
 ## Warning
 **User-Accounts: Discord doesn't allow other clients then their own for unknown reason. Using tokens from normal user accounts can get you banned from Discord and is not recommended.**
 Bot-Accounts are fine.
+
+## Upcomming features
+* Improved Design
+* DMS support
+![DiscordSpy_Preview_20190824](https://user-images.githubusercontent.com/6209597/63637464-8f10d480-c67c-11e9-8ce2-deea4712eb8f.png)
+* Formated chat messages
+* Dynamically loading of previous messages
